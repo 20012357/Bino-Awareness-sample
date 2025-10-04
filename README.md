@@ -1,2 +1,3 @@
 # Bino-Awareness-sample
 A modern, fully responsive Bino Awareness Project demo featuring animated hero, WhatsApp-style chat simulator, Lottie/GSAP effects, dark mode, and Swiper-powered testimonials
+I built a modern, fully responsive web demo for Bino Awareness Project, featuring a dynamic hero section with animated particles, smooth GSAP transitions, and dark/light theme toggle. It includes an interactive WhatsApp-style chat simulator with typing effects, vendor offer animations, sound toggle, and emoji bursts for realism. I showcased the flow with a timeline and Lottie animations, highlighted benefits with tilt effects, and added Swiper-powered testimonials for credibility.
